@@ -1,0 +1,3 @@
+API_URL=https://mobile.huashengdaili.com/servers.php?session=U702a392b0709130832--5bdb772bdb90e00171e41d9bdaf1a2a3&time=30&count=40&type=text&province=440000&pw=no&protocol=s5&separator=1&iptype=tunnel&format=null&dev=web
+USER_ID=2fAn2OWELYJ6vwQTozL5gjPFJGZ
+INTERVAL=1800
