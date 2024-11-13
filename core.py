@@ -85,9 +85,9 @@ class AsyncGrassWs:
                 "user_id": self.user_id,
                 "user_agent": self.user_agent,
                 "timestamp": int(time.time()),
-                "device_type": "extension",
-                "version": "4.20.2",  # 修改版本号
-                "extension_id": "lkbnfiajjmbhnfledhphioinpickokdi"  # 添加扩展ID
+              "device_type": "desktop",
+              "version": "4.26.2",
+              "desktop_id": "lkbnfiajjmbhnfledhphioinpickokdi",  # 添加扩展ID
 
             }
         }
